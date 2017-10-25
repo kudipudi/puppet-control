@@ -29,7 +29,7 @@ mod 'ntp',
 
 mod 'role',
   :git    => 'https://github.com/kudipudi/puppet-role.git',
-  :branch => 'master'
+  :branch => 'development'
 
 mod 'profile',
   :git    => 'https://github.com/kudipudi/puppet-profile.git',
